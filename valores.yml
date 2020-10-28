@@ -1,0 +1,19 @@
+#Config para salvar as infos da bolsa
+Bitcoins:
+  Value: 50.0
+  MinValue: 10.0
+  MaxValue: 100.0
+  Status: true
+  Porcent: 50.0
+Ethereum:
+  Value: 50.0
+  MinValue: 10.0
+  MaxValue: 100.0
+  Status: '+'
+  Porcent: 50.0
+Stellar:
+  Value: 50.0
+  MinValue: 10.0
+  MaxValue: 100.0
+  Status: '+'
+  Porcent: 50.0

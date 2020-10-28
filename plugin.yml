@@ -1,0 +1,12 @@
+name: Sz_Bank
+version: 2.0.0
+main: SzBank.Main
+author: FelipeSz_19
+description: Plugin de Banco com Investimentos
+commands:
+  banco:
+    description: Abre o menu do Banco
+  top:
+    description: Abre o menu do Top
+  topb:
+    description: mostra o top bitcoins

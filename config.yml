@@ -1,0 +1,19 @@
+#################################################
+#                    Sz_Bank                    #
+#               Plugin by: FelipeSz             #
+#              Copyright FelipeSz_19            #
+#################################################
+
+#Ativar/Desativar as Log's do plugin no Console.
+Logs:
+  RegisterPlayer: true #Log de registro de Player
+  AlteracaoBolsa: true #Log de alteracao no valor da bolsa (Bitcoin, Ethereum, Stellar Logs);
+  
+#Config's relacionada ao Banco  
+Banco:
+  Iniciar: 10000.0 #Preco para iniciar conta no Banco
+  Nome: '&6&lMineBank' #Nome do Banco
+  
+Bolsa:
+  Timer: 120 #Tempo entre as alteracoes | Em segundos!
+  
